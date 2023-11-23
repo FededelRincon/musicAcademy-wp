@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 80" width="96" height="80">
+	<title>quote-svg</title>
+	<defs>
+		<image  width="97" height="81" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABRAQMAAAD4slpNAAAAAXNSR0IB2cksfwAAAAZQTFRF/1sAwzZdAU94/AAAAAJ0Uk5TAP9bkSK1AAABHUlEQVR4nJXTwW3EIBAFUFscfHQJlEJpuJOUEkqhBI4cEBP48w3xhtUqe/jojVgPNrBtrz9bep5V5SGv2gWj5mYwGuqUPvOgLGQpDzlk+7vkUWuPhERloP0hzf5oScis7X7LisS7drdtNbRzmGLZ3GOK04lNARm5sDBqXZoXlzlrfOd9qMxvQxm2O9B8KkGZXyyNGVOJiqPWFx9HrSt8kOUrOCz+nb5r11dV9ZfvGamE1J3q+9FVqQoJJRd0UQEKVNSkkuZDmcrIslRB1qXqQrKUfNZFuX/LLWQX2l6EsT51UudUpcrxVwUXoX0zQ5mpTKWdwhg31HCi+1550Y33ch+DwGNwYUl6cO62epTZ9r6padzl+wo5nsmDU1r8ABZhRQAlniSTAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Trazado_5 copy" href="#img1" x="-1" y="-1"/>
+</svg>
